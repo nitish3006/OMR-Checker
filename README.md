@@ -92,13 +92,4 @@ _**Note:** If you face a distutils error in pip, use `--ignore-installed` flag i
 
 Alternatively you can also use `python3 main.py -i ./samples/sample1`.
 
-Each example in the samples folder demonstrates different ways in which OMRChecker can be used.
-
-### Common Issues
-
-<details>
-<summary>
-
-</details>
-<details>
 
